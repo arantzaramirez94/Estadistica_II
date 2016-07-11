@@ -30,6 +30,7 @@ Finalmente, se puede observar que el tamaño del efecto es de 0.96, lo que quier
 En conclusión, se puede ver que en la investigación las variables de tipo de película y tipo de imagen presentan una interacción entre ellas y esta es significativa. Asimismo, se puede ver que la hipótesis propuesta no se cumple, por lo que sería pertinente considerarla al revés para próximas investigaciones. Asimismo, los resultados podrían llevar a creer que el fondo azul y la película inglorius bastards sería la mejor para poder obtener mayores puntajes de manejo de la ira, al tener la mayor media.
 
 VARIABLE SEXO 
+
 Se deseaba conocer si los resultados encontrados con las variables centrales se mantendrían para los hombres, mientras que en las mujeres no se observaría. 
 En cuanto al tipo de película, se segmento la base por sexo para ver si en cuanto a esto en los hombres se mostrarían distintos tipos de manejo de nivel de estrés y en las mujeres esto no se observaría. 
 Se realizó una prueba de normalidad shapiro-wilk, al ser una muestra menor a 50, en la cual todas las significancias fueron menores a 0.05 por lo que se rechazó ho y por ende no se asumió normalidad, por lo que se procedió a utilizar contraste no paramétricos, kruskal wallis. 
@@ -42,6 +43,7 @@ ho: me1=me2=me3
 h1: al menos dos grupos son diferentes
 Para comprobar estas hipótesis se observaron ambas significancias, tanto en hombres como en mujeres fueron 0.000, lo que es menor que 0.05 por lo que se rechazó ho en ambos casos, entonces se puede decir que existen diferencias en al menos dos grupos, tanto en hombres como en mujeres. Esto demuestra que se confirma la hipótesis en cuanto a hombres pero no en mujeres, que se pensó que esto no se presentaría. 
 Para poder ver de que manera se diferencian se procedió a observar los estadísticos descriptivos. En estos se puede ver que tanto en hombres como mujeres la película inflorius bastards tuvo un mayor puntaje de manejo de la ira. No obstante, se puede ver también que los hombres tienen mayores niveles de manejo de la ira que las mujeres en el total de los puntajes. 
+
 En cuanto al tipo de imagen, se segmentó la base por sexo para ver si en cuanto a esto los hombres que vieron la imagen de naturaleza tendrían mayores niveles de manejo de ira y que en las mujeres esto no se observaría.
 Se realizó una prueba de normalidad Shapiro-Wilk, al ser una muestra menor a 50, en la cual todas las significancias fueron menores a 0.05 por lo que se rechazó ho y por ende no se asumió normalidad, por lo que se procedió a utilizar un contraste no paramétrico, U de mann whitney.
 En primer lugar se plantearon las hipótesis:
