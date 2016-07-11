@@ -4,6 +4,7 @@ DESARROLLO DEL PROBLEMA:
 CONDORI HUAMÁN, MANUEL RENATO
 
 perfil de los que no estan a favor de aborto y  comparación con los que estan a favor en funcion a la proporcion de participantes en cada pregunta/hipótesis planteada.
+ 
  HIPOTESIS 1: Quienes nunca permitirían un aborto tendrían menos aprobación de la legalización que quienes si lo permitirían siempre.                                                                                                	    
  H0                      	Mednunca = Medsiempre
  H1                      	Mednunca < Medsiempre
